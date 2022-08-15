@@ -1,4 +1,4 @@
-FRAEMWORKS=-lmlx -framework OpenGL -framework AppKit
+FRAEMWORKS=-framework OpenGL -framework AppKit minilibx_macos/libmlx.a
 FLAGS=-Werror -Wextra -Wall
 NAME = fdf
 SRC = srcs/colors.c srcs/coordinates.c srcs/draw.c srcs/errors.c srcs/events.c srcs/fdf.c \

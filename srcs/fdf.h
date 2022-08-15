@@ -16,7 +16,7 @@
 # include "fdf_macros.h"
 # include "fdf_structures.h"
 # include <math.h>
-# include <mlx.h>
+# include "../minilibx_macos/mlx.h"
 # include <fcntl.h>
 # include <stdio.h>
 # include <stdlib.h>

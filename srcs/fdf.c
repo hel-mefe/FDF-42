@@ -55,8 +55,8 @@ void	init_controller(t_controller *data, t_dot **matrix)
 	data->is_isometric = 1;
 	data->random_color = 0;
 	data->angle = 0.663599;
-	data->win_x = 2800;
-	data->win_y = 1500;
+	data->win_x = 1300;
+	data->win_y = 800;
 	data->shift_x = data->win_x / 3;
 	data->shift_y = data->win_y / 3;
 	data->color_style = 1;

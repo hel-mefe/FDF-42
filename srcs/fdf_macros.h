@@ -13,14 +13,14 @@
 #ifndef FDF_MACROS_H
 # define FDF_MACROS_H
 
-# define INPUT_ERR "\033[1;35mFDF_1337: ====> \033[1; \
+# define INPUT_ERR "\033[1;35mFDF_1337: ====> \033[1;33m \
 please enter a valid fdf map as follows: ./fdf [map.42]"
 # define MALLOC_ERR "\033[1;35mFDF_1337: -----> \033[1;33 \
 mthere was an unexpected error in malloc :( "
 # define FILE_ERR "\033[1;35mFDF_1337: -----> \033[1;33m \
 the file you entered was not found :("
-# define EXTENSION_ERR "\033[1;35mFDF_1337: -----> \033 \
-[1;33mplease enter a file that ends with [.fdf]"
+# define EXTENSION_ERR "\033[1;35mFDF_1337: -----> \
+\033[1;33mplease enter a file that ends with [.fdf]"
 # define INVALID_MAP_ERR "\033[1;35mFDF_1337: -----> \033[1;33m \
 the map you entered is invalid :("
 # define END_MSG "\033[1;35m FDF_1337 -----> \033[1;33m \
