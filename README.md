@@ -4,6 +4,7 @@
 # How to compile it
 ```bash
 make && ./fdf maps/42.fdf
+```
 ![](https://github.com/hel-mefe/FDF-42/blob/master/visuals/howtomake.gif)
 
 # What is FDF?
