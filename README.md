@@ -14,6 +14,7 @@ FDF is a 42 Networks cursus project where you have to build a 3D/2D Wireframe Mo
 However, this project is one of the projects that are going to prepare you for the next curriculum graphics project which is Cub3d or Minirt. It's nice to finish it well as it's nice to understand all the mathematical principles which control how a 3D shape can be drawed on a 2D place which is the screen of your pc of laptop.
 
 ![](https://github.com/hel-mefe/FDF-42/blob/master/visuals/fdf_rotation-min.gif)
+![](https://github.com/hel-mefe/FDF-42/blob/master/visuals/fdf_modes.gif)
 
 # How to run FDF?
 
