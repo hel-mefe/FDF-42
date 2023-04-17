@@ -87,6 +87,7 @@ int	main(int ac, char **av)
 	else if (!is_extension_valid(av[1]))
 		get_err(EXTENSION_ERR);
 	matrix = parse_map(av[1]);
+	printf(LOGO);
 	data = (t_controller *) alloc_mem(1, sizeof(t_controller));
 	init_controller(data, matrix);
 	data->img.img = mlx_new_image(data->mlx_ptr, data->win_x, data->win_y);
