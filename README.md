@@ -22,6 +22,7 @@ However, this project is one of the projects that are going to prepare you for t
 - ## 2D/3D mode
 ![](https://github.com/hel-mefe/FDF-42/blob/master/visuals/fdf_pylone_yellow.gif)
 
+
 # How to run FDF?
 
 The program takes 1 argument as input which is the map to be Rendered, the map should end with .fdf extension as it should be fdf compilant which means the data on it organized in a way that the program can understand to avoid all the parsing errors that may occur.
