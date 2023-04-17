@@ -13,6 +13,8 @@ FDF is a 42 Networks cursus project where you have to build a 3D/2D Wireframe Mo
 
 However, this project is one of the projects that are going to prepare you for the next curriculum graphics project which is Cub3d or Minirt. It's nice to finish it well as it's nice to understand all the mathematical principles which control how a 3D shape can be drawed on a 2D place which is the screen of your pc of laptop.
 
+![](https://github.com/hel-mefe/FDF-42/blob/master/visuals/fdf_rotation-min.gif)
+
 # How to run FDF?
 
 The program takes 1 argument as input which is the map to be Rendered, the map should end with .fdf extension as it should be fdf compilant which means the data on it organized in a way that the program can understand to avoid all the parsing errors that may occur.
