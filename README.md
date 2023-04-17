@@ -17,7 +17,7 @@ However, this project is one of the projects that are going to prepare you for t
 ![](https://github.com/hel-mefe/FDF-42/blob/master/visuals/fdf_rotation-min.gif)
 - ## Multiple random colors
 ![](https://github.com/hel-mefe/FDF-42/blob/master/visuals/fdf_modes.gif)
-- ## 2D/3D modes
+- ## Z-scaling
 ![](https://github.com/hel-mefe/FDF-42/blob/master/visuals/fdf_magnitude.gif)
 
 # How to run FDF?
