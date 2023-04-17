@@ -11,6 +11,17 @@ make && ./fdf maps/42.fdf
 
 FDF is a 42 Networks cursus project where you have to build a 3D/2D Wireframe Model from Scratch using Minilibx Library which is an internal Framework built and used by 42-Networks Students.
 
-# How The Program Works ?
+However, this project is one of the projects that are going to prepare you for the next curriculum graphics project which is Cub3d or Minirt. It's nice to finish it well as it's nice to understand all the mathematical principles which control how a 3D shape can be drawed on a 2D place which is the screen of your pc of laptop.
 
-The program takes 1 argument as input which is the map to be Rendered, the map should end with .fdf extension as it should be fdf compilant which means the data on it organized in a way that FDF Understands to avoid all Parsing errors that could occur.
+# How to run FDF?
+
+The program takes 1 argument as input which is the map to be Rendered, the map should end with .fdf extension as it should be fdf compilant which means the data on it organized in a way that the program can understand to avoid all the parsing errors that may occur.
+
+# Resources
+
+- [Scratchapixel](https://www.scratchapixel.com/)
+- [Rasterization](https://en.wikipedia.org/wiki/Rasterisation)
+- [Bresenham's line drawing](https://www.youtube.com/watch?v=RGB-wlatStc&t=445s)
+- [DDA line drawing](https://www.youtube.com/watch?v=W5P8GlaEOSI)
+- [Graphics masterclass with OpenGL](https://www.youtube.com/watch?v=W5P8GlaEOSI)
+- [Maths needed for graphics](https://www.youtube.com/watch?v=6NB4Gn_BC_U&list=PLn3eTxaOtL2MfiIeGePe3tUGQ3Bi_IkXb)
