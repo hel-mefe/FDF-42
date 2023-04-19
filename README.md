@@ -35,5 +35,5 @@ The program takes 1 argument as input which is the map to be Rendered, the map s
 - [Rasterization](https://en.wikipedia.org/wiki/Rasterisation)
 - [Bresenham's line drawing](https://www.youtube.com/watch?v=RGB-wlatStc&t=445s)
 - [DDA line drawing](https://www.youtube.com/watch?v=W5P8GlaEOSI)
-- [Graphics masterclass with OpenGL](https://www.youtube.com/watch?v=W5P8GlaEOSI)
+- [Graphics masterclass with OpenGL](https://www.youtube.com/watch?v=c1li0SFhyMo&list=PLn3eTxaOtL2PuG1VfwmfAh46mT5N7lE4D)
 - [Maths needed for graphics](https://www.youtube.com/watch?v=6NB4Gn_BC_U&list=PLn3eTxaOtL2MfiIeGePe3tUGQ3Bi_IkXb)
