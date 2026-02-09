@@ -1,5 +1,7 @@
 # FDF-42
 42 Networks Graphics Project About Building a 2D/3D Wireframe Model From Scratch
+<img width="672" height="512" alt="image" src="https://github.com/user-attachments/assets/e62ec450-fd31-4a38-96c4-b4d5df0d730e" />
+
 
 # How to compile it
 ```bash
